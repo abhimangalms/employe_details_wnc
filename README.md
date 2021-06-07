@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+A basic flutter app that uses api to show employee details and provides an option for search filtering within the listview.
+This app will store the API response data to the local storage for working in offline mode.
