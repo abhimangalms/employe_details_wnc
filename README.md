@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 A basic flutter app that uses api to show employee details and provides an option for search filtering within the listview.
-This app will store the API response data to the local storage for working in offline mode.
+This app will store the API response data to the local storage for working in offline mode with search view.
